@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Coverage
+coverage/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+.cache/
+
+# Uploads (if storing locally)
+uploads/
+
+# Prisma / ORM (if used)
+prisma/migrations/
